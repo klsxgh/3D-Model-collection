@@ -10,6 +10,7 @@ Welcome to my personal 3D model collection, I will be posting printable 3D model
 Please note that some of these models may have issues and if noticed, i will post a fixed version or mention it each project file.
 
 ## 📂 Projects
+- **[Cuzor Case model](https://github.com/klsxgh/3D-Model-collection/tree/main/cuzorCase):** A detailed castle perfect for any fantasy world.
 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
