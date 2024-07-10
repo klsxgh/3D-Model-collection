@@ -14,3 +14,7 @@ This is a case made for the **Cuzor Mini Router UPS PRO for 12V up to 3Amp Route
 ## Issues Faced
 On the rear side of the model, I have not allocated sufficient space to accommodate larger screws for wall mounting.
 
+## Images 
+
+![Image](https://raw.githubusercontent.com/klsxgh/3D-Model-collection/main/cuzorCase/Out.jpg)
+![Image](https://raw.githubusercontent.com/klsxgh/3D-Model-collection/main/cuzorCase/In.jpg)
